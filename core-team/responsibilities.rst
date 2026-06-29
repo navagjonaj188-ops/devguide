@@ -1,39 +1,36 @@
-.. _responsibilities:
+---
+responsibilities:
 
 ================
 Responsibilities
 ================
 
-As contributors to the CPython project, our shared responsibility is to
-collaborate constructively with other contributors, including core team members.
-This responsibility covers all forms of contribution, whether that's submitting
-pull requests to the implementation or documentation, reviewing other peoples'
-pull requests, triaging issues on the issue tracker, or discussing design and
+As contributors to the CPython project, our shared responsibility is toAs contributors to the CPython project, our shared responsibility is to```
+collaborate constructively with other contributors, including core team members.```
+This responsibility covers all forms of contribution, whether that's submittingThis responsibility covers all forms of contribution, whether that's submitting
+pull requests to the implementation or documentation, reviewing other peoples'```
+pull requests, triaging issues on the issue tracker, or discussing design andpull requests, triaging issues on the issue tracker, or discussing design and```
 development ideas on the core
-:ref:`communication channels <communication-channels>`.
+:ref:`communication channels 
+```
+<communication-channels>`.
 
 Core team members accept key additional responsibilities around the ongoing
 management of the project:
 
-* core team members bear the additional responsibility of handling the
-  consequences of accepting a change into the code base or documentation.
-  That includes reverting or fixing it if it causes problems in the
-  Buildbot fleet or someone spots a problem in post-commit review, as well
-  as helping out the release manager in resolving any problems found during
-  the pre-release testing cycle. While all contributors are free to help out
-  with this part of the process, and it is most welcome when they do, the
-  actual responsibility rests with the core team member that merged the change
-* core team members also bear the primary responsibility for deciding when
-  changes proposed on the issue tracker should be escalated to
-  the appropriate :ref:`Discourse <communication-discourse>` category
-  for wider discussion, as well as suggesting the use of the
-  Python Enhancement Proposal process to manage the design and justification
-  of complex changes, or changes with a potentially significant impact on
-  end users
+*core* team members bear the additional responsibility of handling the*core* team members bear the additional responsibility of handling the consequences of accepting a change into the code base or documentation.
 
-As a result of the additional responsibilities they accept, core team members
-gain the privilege of being able to approve proposed changes, as well as being
-able to reject them as inappropriate. Core team members are also able to request
+That includes reverting or fixing it if it causes problems in the
+Buildbot fleet or someone spots a problem in post-commit review, as well
+as helping out the release manager in resolving any problems found during the pre-release testing cycle. While all contributors are free to help out with this part of the process, and it is most welcome when they do, the actual responsibility rests with the core team member that merged the change
+
+*core* team members also bear the primary responsibility for deciding when changes proposed on the issue tracker should be escalated to
+the appropriate :ref:`Discourse <communication-discourse>` category
+for wider discussion, as well as suggesting the use of the
+Python Enhancement Proposal process to manage the design and justification of complex changes, or changes with a potentially significant impact on
+end users
+
+As a result of the additional responsibilities they accept, core team members gain the privilege of being able to approve proposed changes, as well as being able to reject them as inappropriate. Core team members are also able to request
 that even already merged changes be escalated to
 :ref:`Discourse <communication-discourse>` for further discussion,
 and potentially even reverted prior to release.
@@ -47,19 +44,19 @@ in the :ref:`experts` and :ref:`developers`).
 Communication channels and bug notifications
 ============================================
 
-Mailing lists have generally been replaced by the
-`Discourse forum <https://discuss.python.org/>`__ (``discuss.python.org``).
-Refer to the :ref:`mailinglists` and :ref:`communication-discourse` sections
-for more information.
+Mailing lists have generally been replaced by theMailing lists have generally been replaced by the
+``Discourse forum <https://discuss.python.org/>`__ (``discuss.python.org'').
+Refer to the :ref:`mailinglists` and :ref:`communication-discourse` section
 
 If you want notification of new issues, you can use the appropriate GitHub notification
 settings for the `python/cpython <https://github.com/python/cpython>`__ repository —
 follow the link and click on the :guilabel:`Watch` button to set your notification options.
-
-
-.. _contributor_agreement:
+```
+contributor_agreement:
 
 Sign a contributor agreement
+
+```
 ============================
 
 Submitting a `contributor form for Python`_ licenses any code you contribute to
